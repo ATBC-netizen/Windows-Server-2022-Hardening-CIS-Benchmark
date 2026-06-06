@@ -1,1 +1,1 @@
-# Windows-Server-2022-Hardening-CIS-Benchmark-
+# Windows-Server-2022-Hardening-CIS-Benchmark
