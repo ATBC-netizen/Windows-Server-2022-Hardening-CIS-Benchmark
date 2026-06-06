@@ -1,3 +1,3 @@
-# Windows-Server-2022-Hardening-CIS-Benchmark
+# Operating System Hardening (Windows Server 2022)
 
-This document serves as proof of completion in successfully hardening a Windows Server 2022 (Desktop Experience) through the Graphical User Interface (GUI) and Windows Server 2022 Core (CLI-only) using Group Policy Objects (GPOs).
+This document serves as proof of completion for successfully hardening Windows Server 2022 (Desktop Experience) through the Graphical User Interface (GUI) and Windows Server 2022 Core (CLI-only) using Group Policy Objects (GPOs).
